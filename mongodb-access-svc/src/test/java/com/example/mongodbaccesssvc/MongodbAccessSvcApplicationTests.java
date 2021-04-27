@@ -1,0 +1,13 @@
+package com.example.mongodbaccesssvc;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MongodbAccessSvcApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
